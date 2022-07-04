@@ -1,0 +1,58 @@
+h1 {
+  color: #006ec5;
+}
+
+p {
+  color: #5a6275;
+  font-weight: 500;
+  font-size: 10pt;
+}
+.search {
+  position: relative;
+  top: 50px;
+}
+.city {
+  width: 40%;
+}
+.btn-primary {
+  background-color: #006ec5;
+  padding: 5px 20px;
+  width: 20%;
+}
+
+.col {
+  color: #939aa9;
+}
+.temperature-now {
+  color: #5a6275;
+}
+h2 {
+  font-size: 48pt;
+  text-decoration: none;
+  padding: 10px 60px;
+}
+a {
+  text-decoration: none;
+  color: #5a6275;
+}
+.card-text {
+  color: #006ec5;
+  font-size: 18pt;
+  font-weight: 400;
+}
+.card {
+  color: #5a6275;
+  font-weight: 300;
+  font-size: 10pt;
+}
+.temperature {
+  color: #5a6275;
+  font-weight: 500;
+  font-size: 20pt;
+}
+
+h3 {
+  font-size: 10pt;
+  text-decoration: none;
+  padding: 10px 60px;
+}
